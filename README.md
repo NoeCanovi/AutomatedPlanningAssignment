@@ -55,6 +55,7 @@ For instance, run ``planutils TFD domain.pddl problem.pddl``
 
 To run the fifth sub-problem:
 1. Install plansys2
+
 In one terminal: 
 2. source /opt/ros/humble/setup.bash
 3. colcon build --symlink-install
@@ -62,6 +63,7 @@ In one terminal:
 5. colcon build --symlink-install
 6. source install/setup.bash 
 7. ros2 launch problem5 plansys2_launch.py
+
 In another terminal:
 8. source /opt/ros/humble/setup.bash
 9. ros2 run plansys2_terminal plansys2_terminal
