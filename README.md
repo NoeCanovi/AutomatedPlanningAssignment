@@ -9,7 +9,7 @@ If interested, below the instructions to run the different sub-problems.
 
 ## Requirements
 
-Here the requirements needed to perform the different parts of the assignment:
+Here the tools needed to perform the different parts of the assignment:
 * sub-problem 1, 2 and 4: [planutils](https://github.com/AI-Planning/planutils)
 * sub-problem 3: [PANDA](https://www.uni-ulm.de/en/in/ki/research/software/panda/panda-planning-system/)
 * sub-problem 5: [plansys2](https://plansys2.github.io/) 
