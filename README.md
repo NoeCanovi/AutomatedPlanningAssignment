@@ -20,6 +20,7 @@ To run the first sub-problem:
 1. Install planutils
 2. Install planners through planutils. Planners used here are: FF, LAMA, LAMA-FIRST
 4. Run ``run planutils planner domain_file problem_file``
+
 For instance, run ``planutils lama domain.pddl problem.pddl``
 
 
@@ -30,8 +31,6 @@ To run the second sub-problem:
 2. Install planners through planutils. Planners used here are: FF, LAMA, LAMA-FIRST
 3. Run ``run planutils planner domain_file problem_file``
 
-
-
 For instance, run ``planutils lama domain.pddl problem.pddl``
 
 
@@ -39,6 +38,7 @@ For instance, run ``planutils lama domain.pddl problem.pddl``
 To run the third sub-problem:
 1. Install PANDA
 2. Run ``java -jar PANDA.jar –parser hddl domain_file problem_file``
+
 Following this repository format, run ``java -jar PANDA.jar –parser hddl domain.hddl problem.hddl``
 
 ## Sub-problem 4
@@ -47,6 +47,7 @@ To run the fourth sub-problem:
 1. Install planutils
 2. Install planners through planutils. Planners used here are: TFD, OPTIC
 3. Run ``run planutils planner domain_file problem_file``
+
 For instance, run ``planutils TFD domain.pddl problem.pddl``
 
 
