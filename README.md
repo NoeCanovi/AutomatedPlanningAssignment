@@ -8,7 +8,7 @@ If intrested, below the instructions to run the different sub-problems.
 
 ## Sub-problem 1
 
-'''run planutils planner domain_file problem_file'''
+``run planutils planner domain_file problem_file``
 
 
 ## Sub-problem 2
