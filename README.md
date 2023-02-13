@@ -29,6 +29,7 @@ To run the second sub-problem:
 1. Install planutils
 2. Install planners through planutils. Planners used here are: FF, LAMA, LAMA-FIRST
 3. Run ``run planutils planner domain_file problem_file``
+
 For instance, run ``planutils lama domain.pddl problem.pddl``
 
 
