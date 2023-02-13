@@ -56,14 +56,14 @@ For instance, run ``planutils TFD domain.pddl problem.pddl``
 To run the fifth sub-problem:
 1. Install plansys2
 
-In one terminal: 
-1. source /opt/ros/humble/setup.bash
-2. colcon build --symlink-install
-3. rosdep install --from-paths problem5 --ignore-src -r -y
-4. colcon build --symlink-install
-5. source install/setup.bash 
-6. ros2 launch problem5 plansys2_launch.py
+In one terminal run: 
+1. ``source /opt/ros/humble/setup.bash``
+2. ``colcon build --symlink-install``
+3. ``rosdep install --from-paths problem5 --ignore-src -r -y``
+4. ``colcon build --symlink-install``
+5. ``source install/setup.bash``
+6. ``ros2 launch problem5 plansys2_launch.py``
 
-In another terminal:
-1. source /opt/ros/humble/setup.bash
-2. ros2 run plansys2_terminal plansys2_terminal
+In another terminal run:
+1. ``source /opt/ros/humble/setup.bash``
+2. ``ros2 run plansys2_terminal plansys2_terminal``
