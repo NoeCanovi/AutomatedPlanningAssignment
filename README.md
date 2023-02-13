@@ -1,4 +1,4 @@
-# AutomatedPlanningAssignment
+# Automated Planning Assignment
 
 This repository is a student project containing all files addressing the assignment of Automated Planning: Theory and Practice, course of the Master in Artificial Intelligent Systems at the University of Trento, a.y. 2022-2023.
 
